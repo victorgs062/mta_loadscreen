@@ -1,0 +1,23 @@
+<meta> 
+	<info author="VictorGS" name="Loadscreen" version="1.0.0" type="script" />
+    <min_mta_version client="1.5.8-9.20979"></min_mta_version>
+	<oop>true</oop>
+    
+	<script src="config.lua" type="shared" cache = "false"/>  
+	<script src="client.lua" type="client" cache = "false"/>  
+    
+    <file src="files/img/fundo.png" />
+	<file src="files/img/pause.png" />
+	<file src="files/img/play.png" />
+    <file src="files/img/discord.png" />
+    <file src="files/img/youtube.png" />
+    <file src="files/img/instagram.png" />
+    <file src="files/img/retangulo.png" />
+	
+	<file src="files/fonts/Inter-Medium.ttf" />
+    <file src="files/fonts/Inter-Regular.ttf" />
+	
+	<file src="musica.mp3" />
+	
+	<download_priority_group>1</download_priority_group>
+</meta>
